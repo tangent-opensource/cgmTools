@@ -7,3 +7,5 @@ mayaTools/cgm/core/lib/wing/wingdbstub.pyo
 mayaTools/cgm/core/lib/wing/mayaWingServer.pyo
 mayaTools/cgm/core/lib/wing/executeWingCode.pyo
 mayaTools/cgm/core/lib/wing/__init__.pyo
+_rez_build
+
