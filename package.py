@@ -1,5 +1,8 @@
 name = "cgmTools"
-version = "2020.4-ta.0.0.2"
+version = "2020.4-ta.0.0.3"
+
+private_build_requires = ['python']
+
 build_command = "python {root}/rez_build.py"
 
 

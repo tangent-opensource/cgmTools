@@ -6,6 +6,9 @@ def init_cgm_toolbox():
     print("+ CGMToolbox init")
     import cgmToolbox
     reload(cgmToolbox)
+    import Red9
+    reload(Red9)
+    Red9.start()
 
 mc.evalDeferred(init_cgm_toolbox, lp=True)
 
